@@ -1,0 +1,1359 @@
+Starting DemoApplication on xieziyangdeMBP.lan with PID 8637 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1717 ms
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 3.93 seconds (JVM running for 4.558)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 15 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on xieziyangdeMBP.lan with PID 8690 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1871 ms
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 4.42 seconds (JVM running for 5.382)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 11 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on xieziyangdeMBP.lan with PID 8800 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1790 ms
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 4.874 seconds (JVM running for 5.583)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 11 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on xieziyangdeMBP.lan with PID 8884 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1735 ms
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 4.132 seconds (JVM running for 4.742)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 9 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on xieziyangdeMBP.lan with PID 8910 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1634 ms
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 3.89 seconds (JVM running for 4.514)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 10 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on xieziyangdeMBP.lan with PID 8982 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1731 ms
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 4.014 seconds (JVM running for 4.61)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 11 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on xieziyangdeMBP.lan with PID 9162 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1719 ms
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 3.99 seconds (JVM running for 4.603)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 9 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on xieziyangdeMBP.lan with PID 9232 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2260 ms
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 4.98 seconds (JVM running for 5.665)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 14 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on xieziyangdeMBP.lan with PID 9288 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1836 ms
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 4.62 seconds (JVM running for 5.201)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 10 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on xieziyangdeMBP.lan with PID 9325 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1796 ms
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 4.322 seconds (JVM running for 4.86)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 9 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on xieziyangdeMBP.lan with PID 9416 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1777 ms
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 4.036 seconds (JVM running for 4.61)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 10 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on xieziyangdeMBP.lan with PID 9776 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1816 ms
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 4.226 seconds (JVM running for 4.821)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 11 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting DemoApplication on xieziyangdeMBP.lan with PID 18036 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 15ms. Found 0 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1992 ms
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 5.551 seconds (JVM running for 6.682)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 15 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting DemoApplication on xieziyangdeMBP.lan with PID 18641 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 19ms. Found 0 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 2828 ms
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.blog.core.Service.NBANewsService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Stopping service [Tomcat]
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 18951 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 17ms. Found 0 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.blog.core.Service.NBANewsService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19051 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 15ms. Found 0 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.blog.core.Service.NBANewsService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19094 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 13ms. Found 0 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'helloWorldController': Unsatisfied dependency expressed through field 'nbaNewsService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.blog.core.Service.NBANewsService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19130 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 17ms. Found 0 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'helloWorldController': Unsatisfied dependency expressed through field 'nbaNewsService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.blog.core.Service.NBANewsService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19175 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 60ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.blog.core.Bean.NBANews
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19241 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 64ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.blog.core.Bean.NBANews
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19313 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 64ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: No identifier specified for entity: com.blog.core.Bean.NBANews
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19332 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 89ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'helloWorldController': Unsatisfied dependency expressed through field 'nbaNewsService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class java.lang.Object
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19400 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 86ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'helloWorldController': Unsatisfied dependency expressed through field 'nbaNewsService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class java.lang.Object
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19420 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 142ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class java.lang.Object
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19481 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 72ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class java.lang.Object
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19555 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 88ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class java.lang.Object
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19587 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 125ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class java.lang.Object
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19605 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 140ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'helloWorldController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'NBANewsServiceImpl': Unsatisfied dependency expressed through field 'nbaNewsRepository'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Not a managed type: class java.lang.Object
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19710 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 72ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Started databaseTests in 6.854 seconds (JVM running for 7.993)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19759 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 89ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'NBANewsServiceImpl': Unsatisfied dependency expressed through field 'nbaNewsRepository'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Validation failed for query for method public abstract java.util.List com.blog.core.Dao.NBANewsRepository.findByTitle(java.lang.String)!
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19818 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 68ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'documentationPluginsBootstrapper' defined in URL [jar:file:/Users/frank/Documents/maven/mavenRepository/io/springfox/springfox-spring-web/2.7.0/springfox-spring-web-2.7.0.jar!/springfox/documentation/spring/web/plugins/DocumentationPluginsBootstrapper.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'webMvcRequestHandlerProvider' defined in URL [jar:file:/Users/frank/Documents/maven/mavenRepository/io/springfox/springfox-spring-web/2.7.0/springfox-spring-web-2.7.0.jar!/springfox/documentation/spring/web/plugins/WebMvcRequestHandlerProvider.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Unsatisfied dependency expressed through method 'requestMappingHandlerMapping' parameter 1; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mvcConversionService' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.format.support.FormattingConversionService]: Factory method 'mvcConversionService' threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Validation failed for query for method public abstract java.util.List com.blog.core.Dao.NBANewsRepository.findByTitle(java.lang.String)!
+Related cause: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Unsatisfied dependency expressed through method 'requestMappingHandlerMapping' parameter 1; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mvcConversionService' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.format.support.FormattingConversionService]: Factory method 'mvcConversionService' threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Validation failed for query for method public abstract java.util.List com.blog.core.Dao.NBANewsRepository.findByTitle(java.lang.String)!
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19837 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 75ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'documentationPluginsBootstrapper' defined in URL [jar:file:/Users/frank/Documents/maven/mavenRepository/io/springfox/springfox-spring-web/2.7.0/springfox-spring-web-2.7.0.jar!/springfox/documentation/spring/web/plugins/DocumentationPluginsBootstrapper.class]: Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'webMvcRequestHandlerProvider' defined in URL [jar:file:/Users/frank/Documents/maven/mavenRepository/io/springfox/springfox-spring-web/2.7.0/springfox-spring-web-2.7.0.jar!/springfox/documentation/spring/web/plugins/WebMvcRequestHandlerProvider.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Unsatisfied dependency expressed through method 'requestMappingHandlerMapping' parameter 1; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mvcConversionService' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.format.support.FormattingConversionService]: Factory method 'mvcConversionService' threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Validation failed for query for method public abstract java.util.List com.blog.core.Dao.NBANewsRepository.findByTitle(java.lang.String)!
+Related cause: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Unsatisfied dependency expressed through method 'requestMappingHandlerMapping' parameter 1; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mvcConversionService' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.format.support.FormattingConversionService]: Factory method 'mvcConversionService' threw exception; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Validation failed for query for method public abstract java.util.List com.blog.core.Dao.NBANewsRepository.findByTitle(java.lang.String)!
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19865 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 68ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Started databaseTests in 6.848 seconds (JVM running for 7.984)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19880 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 66ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Started databaseTests in 6.454 seconds (JVM running for 7.613)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting databaseTests on xieziyangdeMBP.lan with PID 19951 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 66ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'NBANewsServiceImpl': Unsatisfied dependency expressed through field 'nbaNewsRepository'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'NBANewsRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Validation failed for query for method public abstract java.util.List com.blog.core.Dao.NBANewsRepository.findByTitle(java.lang.String)!
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting databaseTests on xieziyangdeMBP.lan with PID 20009 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 66ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Started databaseTests in 6.602 seconds (JVM running for 7.775)
+SQL Error: 1054, SQLState: 42S22
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting databaseTests on xieziyangdeMBP.lan with PID 20045 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 65ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Started databaseTests in 6.383 seconds (JVM running for 7.495)
+SQL Error: 1054, SQLState: 42S22
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting databaseTests on xieziyangdeMBP.lan with PID 20073 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 74ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Started databaseTests in 6.208 seconds (JVM running for 7.289)
+SQL Error: 1064, SQLState: 42000
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting databaseTests on xieziyangdeMBP.lan with PID 20108 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 66ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Started databaseTests in 6.503 seconds (JVM running for 7.612)
+SQL Error: 1054, SQLState: 42S22
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting databaseTests on xieziyangdeMBP.lan with PID 20119 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 71ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Started databaseTests in 7.885 seconds (JVM running for 9.172)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting databaseTests on xieziyangdeMBP.lan with PID 20135 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 84ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Started databaseTests in 6.883 seconds (JVM running for 8.163)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting databaseTests on xieziyangdeMBP.lan with PID 20155 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 67ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Started databaseTests in 6.512 seconds (JVM running for 7.555)
+SQL Error: 1054, SQLState: 42S22
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting databaseTests on xieziyangdeMBP.lan with PID 20182 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 71ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Started databaseTests in 6.533 seconds (JVM running for 7.641)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting databaseTests on xieziyangdeMBP.lan with PID 20221 (started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 74ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Started databaseTests in 6.311 seconds (JVM running for 7.464)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
+Starting DemoApplication on xieziyangdeMBP.lan with PID 20254 (/Users/frank/Documents/coding/blog/target/classes started by frank in /Users/frank/Documents/coding/blog)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 48ms. Found 1 JPA repository interfaces.
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.30]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1821 ms
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate Core {5.4.10.Final}
+HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+HikariPool-1 - Starting...
+HikariPool-1 - Start completed.
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+Initializing ExecutorService 'applicationTaskExecutor'
+Adding welcome page template: index
+[THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+Context refreshed
+Found 1 custom documentation plugin(s)
+Scanning for api listing references
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Trying to infer dataType org.springframework.ui.ModelMap
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started DemoApplication in 5.944 seconds (JVM running for 6.535)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 12 ms
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+SQL Error: 1366, SQLState: HY000
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m11s620ms).
+Shutting down ExecutorService 'applicationTaskExecutor'
+Closing JPA EntityManagerFactory for persistence unit 'default'
+HikariPool-1 - Shutdown initiated...
+HikariPool-1 - Shutdown completed.
